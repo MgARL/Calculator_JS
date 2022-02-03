@@ -51,6 +51,7 @@ class Calculator{
                 break
             case '*':
                 computation = prev * current
+                break
             default:
                 return
         }
